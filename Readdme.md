@@ -1,5 +1,5 @@
-## udemy-git course
+## udemy-git Introduction course
 ### first assignment
 
-Name:amani Abbas
-Note:  good luck
+* Name:amani Abbas
+8 Note:  good luck
